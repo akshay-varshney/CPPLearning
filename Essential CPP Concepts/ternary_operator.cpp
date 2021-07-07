@@ -1,4 +1,4 @@
-//This program show the usage of the ternary operator in CPP.
+//This sprogram show the usage of the ternary operator in CPP.
 #include<iostream>
 
 using namespace std;
