@@ -1,3 +1,6 @@
+// This program shows the usage of the functors in cpp.
+//A functor is pretty much just a class which defines the operator(). That lets you create objects which "look like" a function.
+
 #include<iostream>
 using namespace std;
 
