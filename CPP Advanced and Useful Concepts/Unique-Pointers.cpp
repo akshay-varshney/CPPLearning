@@ -13,6 +13,9 @@ public:
     void display(){
         cout<<name<<endl;
     }
+    ~nam() {
+        std::cout<<"Destructor is called "<<std::endl;
+    }
     
 };
 
